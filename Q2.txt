@@ -1,0 +1,13 @@
+Top 5 Frequent Words in a Document (HashMap, Sorting)
+
+Scenario:
+You have a text document, and you need to find the top 5 most frequent words.
+
+Tasks:
+	•	Read a given text file.
+	•	Use a HashMap<String, Integer> to store word frequency.
+	•	Sort the map based on frequency in descending order.
+	•	Print the top 5 most occurring words.
+
+Question:
+How will you sort a HashMap by value and retrieve the top 5 elements?
